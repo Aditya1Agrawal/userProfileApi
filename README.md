@@ -20,13 +20,17 @@ MongoDB (local instance or MongoDB Atlas account)
 
 Installation
 Clone the repository
+
 git clone https://github.com/yourusername/user-profile-api.git
+
 cd user-profile-api
 
 install dependencies
 npm install
 
 now add .env file for the DB_URL and PORT
+
 now run the command for server and Db connection
+
 npm run dev
 
