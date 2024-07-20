@@ -21,7 +21,7 @@ MongoDB (local instance or MongoDB Atlas account)
 Installation
 Clone the repository
 
-git clone https://github.com/yourusername/user-profile-api.git
+git clone https://github.com/Aditya1Agrawal/userProfileApi
 
 cd user-profile-api
 
