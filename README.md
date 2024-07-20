@@ -34,3 +34,5 @@ now run the command for server and Db connection
 
 npm run dev
 
+// My first commit is made with my another id I used before, because I didn't change my git config --global user.name and git config --global user.email as it is set to ayush verma
+
